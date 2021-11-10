@@ -1,6 +1,6 @@
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const mnemonic = "confirm swim kiwi crack share story curve okay viable indicate either industry";
-const infurakey = "a307ce5d8f4849fa958ae6a30930a8a0";
+const mnemonic = "";
+const infurakey = "";
 
 module.exports = {
   networks: {

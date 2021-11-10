@@ -1,4 +1,5 @@
 # UDACITY - BLOCKCHAIN DEVELOPER - PROJECT-3 - SUPPLY CHAIN - JAIME FIDALGO SANTOS
+The project has been done using a template provided by udacity team (https://github.com/udacity/nd1309-Project-6b-Example-Template)
 
 ## Truffle Version
 >
